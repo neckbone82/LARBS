@@ -1,11 +1,13 @@
+### Fork of
 # Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+### With my keybinds and a few more packages.  Nothing special.
 
 ## Installation:
 
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO https://raw.githubusercontent.com/neckbone82/LARBS/master/larbs.sh
 sh larbs.sh
 ```
 
