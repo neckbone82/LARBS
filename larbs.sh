@@ -7,7 +7,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/neckbone82/voidrice.git"
-progsfile="https://raw.githubusercontent.com/neckbone82/LARBS/master/progs.csv"
+progsfile="https://raw.githubusercontent.com/neckbone82/LARBS/fork/progs.csv"
 aurhelper="yay"
 repobranch="master"
 
